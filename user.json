@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 3,
+        "username": "Ahmed",
+        "Phone Number": "01127091832",
+        "Email": "ahmed@mail.com",
+        "Gender": "male",
+        "Governorate": "elmenofia",
+        "Password": "123456",
+        "Age": "22",
+        "National ID": "20306111785255",
+        "Cart": []
+    }
+]

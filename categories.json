@@ -1,0 +1,38 @@
+{
+    "Home Appliances": [
+        {
+            "Name": "Fridge",
+            "Price": 8000.0,
+            "Brand": "elaraby",
+            "ModelYear": "2022",
+            "ImagePath": "C:/Users/cpu/Desktop/real-mart-master/images/fridge.jpg"
+        },
+        {
+            "Name": "Dish Water",
+            "Price": 5000.0,
+            "Brand": "elaraby",
+            "ModelYear": "2023",
+            "ImagePath": "C:/Users/cpu/Desktop/real-mart-master/images/dishwasher.jpg"
+        }
+    ],
+    "Electronics": [],
+    "Fashion": [
+        {
+            "Name": "Dress",
+            "Price": 500.0,
+            "Brand": "zara",
+            "ModelYear": "2022",
+            "ImagePath": "C:/Users/cpu/Desktop/real-mart-master/images/Dress.jpg"
+        }
+    ],
+    "Books": [
+        {
+            "Name": "Fire Blood",
+            "Price": 500.0,
+            "Brand": "aghatha",
+            "ModelYear": "2011",
+            "ImagePath": "C:/Users/cpu/Desktop/real-mart-master/images/fire_blood.jpg"
+        }
+    ],
+    "Sports": []
+}
